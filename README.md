@@ -4,6 +4,9 @@
 
 TableTally is a comprehensive scoreboard system for managing ping pong (table tennis) matches. It tracks scores for individual games, overall matches, and serve indications, ensuring all the rules are followed automatically. With TableTally, you can focus on your game while it handles the rest!
 
+## On Youtube
+[![TableTally](https://img.youtube.com/vi/OYS0w0hd2Nw/0.jpg)](https://www.youtube.com/watch?v=OYS0w0hd2Nw)
+
 ## Features
 
 - **Game and Match Scorekeeping**: Updates and tracks player scores across games and matches.
